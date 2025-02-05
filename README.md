@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm maarkk110</h1>
 <h3 align="center">Vulnerability Analyst, CTFs Hacker and Cybersecurity Student from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maarkk110" alt="maarkk110" /></a> </p>
-
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **TryHackMe**
