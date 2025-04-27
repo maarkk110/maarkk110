@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm maarkk110</h1>
-<h3 align="center">Vulnerability Analyst, CTFs Hacker and Cybersecurity Student from Spain</h3>
+<h3 align="center">Systems Administrator, Vulnerability Analyst, CTFs Hacker and Systems Student from Spain</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking and Systems Administration**
 
 - 👯 I’m looking to collaborate on **TryHackMe**
 
